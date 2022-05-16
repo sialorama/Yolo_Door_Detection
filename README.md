@@ -1,0 +1,2 @@
+# Amelioration_IA
+Dans ce cas pratique nous allons améliorer une Intelligence artificiel conçue dans le cadre de la sécurité des issues des bâtiments. Cette Ia est capable de détecter la présence d’une porte et de la classifier selon qu’elle est ouverte, semi ouverte ou fermée. Cela étant possible grâce aux techniques de détection d’objet basées sur la vision numérique (Computer Vision). Cette dernière est une catégorie à part de la famille des intelligences artificielles.
